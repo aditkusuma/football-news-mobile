@@ -72,7 +72,7 @@ class ItemCard extends StatelessWidget {
                     );
                 }
             }
-        }
+          }
         },
         child: Container(
           padding: const EdgeInsets.all(8),
